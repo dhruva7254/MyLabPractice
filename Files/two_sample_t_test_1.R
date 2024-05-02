@@ -1,0 +1,8 @@
+two_sample_t_test <- read_excel("D:/Dhruva/two_sample_t_test.xlsx")
+attach(two_sample_t_test)
+str(two_sample_t_test)
+two_sample_t_test$City<-as.factor(two_sample_t_test$City)
+str(two_sample_t_test)
+t.test(Perception~City,data = two_sample_t_test)
+library(car)
+leveneTest(Perception~City,data = two_sample_t_test)
