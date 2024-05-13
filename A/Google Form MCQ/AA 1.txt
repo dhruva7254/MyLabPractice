@@ -1,0 +1,160 @@
+
+https://docs.google.com/forms/d/e/1FAIpQLSdKec3ItNw6vAlcjVzfKhMT7e0UAMoMklbSUFpGMYPbjQ8R2g/viewform
+
+
+advanced analytics_march24_1
+dhruvarakesh20@gmail.com Switch account
+ 
+* Indicates required question
+Email
+*
+Record dhruvarakesh20@gmail.com as the email to be included with my response
+name
+roll  no
+1.Which of the following is a disadvantage of ordinal data?
+
+1 point
+They are not comparable with each other.
+They have no natural zero.
+They have no fixed units of measurement.
+They bear no relationship to one another.
+2. When data are classified by the type of measurement scale, which is the strongest form of measurement?
+
+
+1 point
+nominal
+interval
+ordinal
+ratio
+3. to determine stock price for next 6 months  which analytics used?
+1 point
+prescriptive
+predictive
+diagnostic
+descriptive
+4. Which decision model incorporates the uncertainty element?
+*
+1 point
+predictive
+normative
+prescriptive
+descriptive
+5.
+Prescriptive decision models help
+
+1 point
+make predictions of how demand is influenced by price
+make trade-offs between greater rewards and risks of potential losses.
+decision makers identify the best solution to decision problems.
+describe relationships and influence of various elements in the model.
+6. A manager at Gampco Inc. wishes to know the company's revenue and profit in its previous quarter. Which of the following business analytics will help the manager?
+
+
+1 point
+descriptive analytics
+prescriptive analytics
+predictive analytics
+normative analytics
+7. Predictive analytics
+*
+1 point
+summarizes data into meaningful charts and reports that can be standardized or customized.
+identifies the best alternatives to minimize or maximize an objective.
+detects patterns in historical data and extrapolates them forward in time.
+uses data to determine a course of action to be executed in a given situation.
+
+8.  Descriptive analytics:
+
+
+*
+1 point
+helps companies classify their customers into segments to develop specific marketing campaigns.
+can predict risk and find relationships in data not readily apparent with traditional analyses.
+helps detect hidden patterns in large quantities of data to group data into sets to predict behavior.
+can use mathematical techniques with optimization to make decisions that take into account the uncertainty in the data.
+9. Which decision model incorporates the process of optimization?
+
+
+1 point
+predictive
+prescriptive
+descriptive
+normative
+10.
+ Which of the following is true about problem solving?
+
+
+1 point
+A) Recognizing problems involves stating goals and objectives.
+B) Analyzing the problem involves characterizing the possible decisions.
+C) Decision making involves translating the results of the model in the organization.
+D) Structuring the problem involves identifying constraints.
+11. Which of the following charts provides a useful means for displaying data over time
+
+
+1 point
+Line chart
+Pie chart
+A doughnut chart
+Scatter chart
+12. Observations consisting of pairs of variable data are required to construct a ________ chart.
+
+
+1 point
+radar
+doughnut
+line
+scatter
+13.  ________ is a measure of the linear relationship between two variables, X and Y, which does not depend on the units of  measurement.
+1 point
+Correlation
+Kurtosis
+Skewness
+Proportion
+14.  ________ is a measure of the linear association between two variables, X and Y.
+1 point
+Kurtosis
+Skewness
+Covariance
+Correlation
+15.  In statistics, ________ refers to the peakedness or flatness of a histogram.
+1 point
+Sharpe ratio
+kurtosis
+Markov chain
+entropy rate
+16. Which of the following describes dispersion in statistics?
+1 point
+the central value in the data
+the measure of outliers in the data
+the frequency of values in the data
+the degree of variation in the data
+17. Which of the following is true for a mode?
+
+
+1 point
+Modes cannot be used in data having repetitious values
+The highest bar in a histogram is its mode.
+Modes are affected by outliers.
+Modes are the mid values of data arranged from least to greatest.
+18. The measure of location that specifies the middle value when the data are arranged from least to greatest is the ________.
+1 point
+mean
+median
+mode
+outlier
+19. The ________ is the observation that occurs most frequently.
+1 point
+mean
+median
+mode
+outlier
+20. When assigned numbers to indicate the relation between entities in terms of greater than, equal, or less than but do not state how much greater than or less than, then the scale is called 
+1 point
+nominal scale
+ordinal scale
+ration scale
+interval scale
+Never submit passwords through Google Forms.
+This content is neither created nor endorsed by Google. Report Abuse - Terms of Service - Privacy Policy
+Google Forms

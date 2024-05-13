@@ -1,0 +1,224 @@
+
+https://docs.google.com/forms/d/e/1FAIpQLScaF31GLKDIibltuYUJUa_kdtFeIQrdg3EHruWxU1pyg7M6Gw/alreadyresponded
+
+
+R Programming Mock Test 2
+Total points
+16/20
+ 
+Email
+*
+dhruvarakesh20@gmail.com
+Name
+*
+Dhruva Rakesh B
+Roll Number
+*
+243514
+ 
+Which of the following is valid syntax for if else statement in R?
+1/1
+
+Option 1
+ 
+
+Option 2
+
+Option 3
+
+Option 4
+ 
+Point out the correct statement?
+1/1
+a) Blocks are evaluated until a new line is entered after the closing brace
+b) Single statements are evaluated when a new line is typed at the start of the syntactically complete statement
+c) The if/else statement conditionally evaluates two statements
+ 
+d) Break will execute a loop while a condition is true
+ 
+Which of the following R syntax is correct for while loop?
+1/1
+a) while ( statement1 ) statement2
+ 
+b) while ( statement1 ) else statement2
+c) while ( statement1 ) do statement2
+d) while ( statement2 ) doelse statement2
+ 
+ Point out the wrong statement?
+1/1
+a) for will execute a loop a fixed number of times
+b) break will execute a loop while a condition is true
+ 
+c) if and else tests a condition and acting on it
+d) break is used to break the execution of a loop
+ 
+_______ is used to break the execution of a loop.
+1/1
+a) next
+b) skip
+c) break
+ 
+d) delete
+ 
+ Which of the following should be preferred for evaluation from list of alternatives?
+1/1
+a) subsett
+b) eval
+ 
+c) switch
+d) set
+ 
+Which of the following statement can be used to explicitly control looping?
+1/1
+a) if
+b) while
+c) break
+ 
+d) for
+ 
+ What will be the output of the following R code?
+0/1
+Captionless Image
+
+A
+
+B
+ 
+
+C
+D. ERROR
+Correct answer
+A
+ 
+Which of the following R code generate a uniform random number?
+1/1
+
+A
+ 
+
+B
+
+C
+
+D
+ 
+Which of the following R code generate a sequence of integers from 1 to 10?
+1/1
+
+A
+
+B
+
+C
+ 
+
+D
+ 
+What will be the output of the following R code?
+1/1
+Captionless Image
+a) 5
+b) 5.5
+ 
+c) NULL
+d) 58
+ 
+Point out the correct statement?
+1/1
+a) Statements, such as x<-1:10 or mean(y), can be separated by either a semicolon or a new line
+b) Whenever the evaluator is presented with a syntactically complete statement that statement is evaluated and the value returned
+c) Computation in R consists of sequentially evaluating statements
+d) All of the mentioned
+ 
+ 
+What will be the output of the following R code?
+1/1
+Captionless Image
+a) “banana”
+ 
+b) “Neither”
+c) “broccoli”
+d) Error
+ 
+Point out the correct statement?
+0/1
+a) The next statement causes an exit from the innermost loop that is currently being executed
+ 
+b) There are two statements that can be used to explicitly control looping
+c) The break statement immediately causes control to return to the start of the loop
+d) Computation in R consists of sequentially evaluating statements
+Correct answer
+b) There are two statements that can be used to explicitly control looping
+ 
+What will be the output of the following R code?
+Captionless Image
+a) 0.8760325
+ 
+b) 0.5360891
+c) 0.6086504
+d) gives mean with values depending on rcauchy values
+Correct answer
+d) gives mean with values depending on rcauchy values
+ 
+R has ________ basic indexing operators.
+0/1
+a) two
+ 
+b) three
+c) four
+d) five
+Correct answer
+b) three
+ 
+Which of the following R code will print “Neither”?
+1/1
+
+Option 1
+ 
+
+Option 2
+
+Option 3
+
+Option 4
+ 
+The syntax of the for loop is?
+1/1
+
+A
+
+B
+
+C
+ 
+
+D
+ 
+What will be the output of the following R code snippet?
+0/1
+Captionless Image
+a) “a+b”
+ 
+b) “a=b”
+c) “a b :”
+d) none of the mentioned
+Correct answer
+d) none of the mentioned
+ 
+Point out the correct statement?
+1/1
+a) In R, a function is an object which has the mode function
+b) R interpreter is able to pass control to the function, along with arguments that may be necessary for the function to accomplish the actions that are desired
+c) Functions are also often written when code must be shared with others or the public
+d) All of the mentioned
+ 
+ 
+The __________ function returns a list of all the formal arguments of a function.
+1/1
+a) formals()
+ 
+b) funct()
+c) formal()
+d) fun()
+This content is neither created nor endorsed by Google. Report Abuse - Terms of Service - Privacy Policy
+Google Forms
