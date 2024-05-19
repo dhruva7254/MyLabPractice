@@ -1,0 +1,27 @@
+05-05-2024
+Advance Analytics Notes
+
+Chi-Square Test:
+-relationship between the categorical data
+-test of relatedness
+-test of independence
+minimum category 2,2
+observed frequency:
+-       vaccination(yes/no)     row total
+-covid(yes/no)  20         10   30
+                5          15   20
+- column total  25         25   50
+- we calculate the the expected frequency = ( row total * column total ) / grand total 
+                vaccination
+                yes           no
+covid    yes    (30x25)/50    30x25 / 50
+          no    20x25 / 50    20x25 / 50
+
+
+
+spearman25 when both ordinal
+
+
+
+Probability & probability distribution
+
