@@ -1,0 +1,4 @@
+arn:aws:s3:::mydhruvabucket/*
+https://crontab.guru/
+https://github.com/rupeshmutha/AWS_CDK_MINI_PROJECT/tree/main/CDK-AWS/cdk_aws
+file://dbda15/Big_Data_Softwares/
