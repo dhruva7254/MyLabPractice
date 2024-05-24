@@ -1,0 +1,4 @@
+money control
+option chain nse india
+https://www.nseindia.com/option-chain
+https://upgrad.mentormind.in/menternships/predict-the-fare-amount-of-future-rides-using-regression-analysis
